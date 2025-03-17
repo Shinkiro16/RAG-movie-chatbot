@@ -1,0 +1,5 @@
+tkinter
+imdbpy
+duckduckgo-search
+sqlite3
+aiohttp
